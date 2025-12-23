@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0c17&height=180&section=header&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00BFFF,BF00FF&height=180&section=header&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
@@ -12,7 +12,6 @@
 </div>
 
 <h3 align="center" style="color:#00BFFF">🧠 SYSTEM OVERRIDE // PROFILE.INIT</h3>
-
 ```bash
 > Name:         Aditya Gupta
 > Role:         Cyber Security & Networking Enthusiast
@@ -83,5 +82,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0c17&height=120&section=footer&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00BFFF,BF00FF&height=120&section=footer&animation=fadeIn" width="100%" />
 </div>
