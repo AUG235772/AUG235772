@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=Initializing+System...;Identity:+Aditya+Gupta;Target:+Secure+The+Digital+Grid;Ops:+CTF+%7C+Pentesting+%7C+Labs;Status:+Online" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=100&color=00BFFF&center=true&vCenter=true&width=600&lines=Initializing+System...;Identity:+Aditya+Gupta;Target:+Secure+The+Digital+Grid;Ops:+CTF+%7C+Pentesting+%7C+Labs;Status:+Online" />
 </div>
 
 <div align="center" style="margin: 20px 0;">
@@ -12,14 +12,25 @@
 </div>
 
 <h3 align="center" style="color:#00BFFF">🧠 SYSTEM OVERRIDE // PROFILE.INIT</h3>
+
+
 ```bash
+
 > Name:         Aditya Gupta
+
 > Role:         Cyber Security & Networking Enthusiast
+
 > Status:       Learning, Building, Breaking (ethically 😉)
+
 > Email:        adityaguptaitmbu@gmail.com 
+
 > Current Ops:  CTFs | Pentesting | Labs | Certifications
+
 > Base:         India
+
 ````
+
+
 
 
 
