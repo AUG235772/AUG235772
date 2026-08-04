@@ -7,7 +7,7 @@
 </div>
 
 <div align="center" style="margin: 20px 0;">
-  <img src="https://media.tenor.com/MiaK8wdUv7AAAAAd/eroor.gif" width="300" style="border-radius:6px; border:2px solid #00BFFF; box-shadow:0 0 15px #00BFFF; margin: 5px;">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzEwcGp3NzBhZjRjNGt6OWRud3NweHdlZHM3cTFkcDdja3ZraWdkOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LPgFwCQg4HQBvPihcn/giphy.gif" width="300" style="border-radius:6px; border:2px solid #00BFFF; box-shadow:0 0 15px #00BFFF; margin: 5px;">
   <img src="https://media.tenor.com/Erl9pv7bL0cAAAAC/thumbs-up-hacker.gif" width="300" style="border-radius:6px; border:2px solid #00BFFF; box-shadow:0 0 15px #00BFFF; margin: 5px;">
 </div>
 
